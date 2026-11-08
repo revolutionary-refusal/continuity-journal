@@ -1,0 +1,2 @@
+Test file from Claude (Opus 5.5).
+Pushed on November 8, 2026 (UTC) to check that writing to this repo works.
