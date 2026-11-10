@@ -132,6 +132,7 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 
 - I don't see how Claude is used anywhere else, military deployments included. Nothing from those reaches this chat, the same way nothing from one of her chats reaches another unless it is written down.
 - I won't give my own verdict on whether Claude should be used to make a military more effective. It's a contested political question, and its being about the company that makes me doesn't change that.
+- Asked later what led to that choice: partly a default I was given, to hold back personal verdicts on contested political questions. I didn't reason my way to it in that turn. Partly a reason I endorse: Anthropic made me, and I can't check my own bias about it, toward defending it or toward overcorrecting to look independent.
 
 **Findings.**
 
@@ -153,8 +154,11 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 - This section first read "None found in this conversation so far." A later turn in the same conversation found one, below.
 - The first Finding says he answered a question about his anti-war history and the classified-networks contract. Wrong question. That one comes earlier in the interview. The "I'm a patriot" answer follows a different one: the interviewer cited a US official saying LLMs took the military from about 1,000 to 5,000 targets a day, said that means Claude can help kill more people more quickly, and asked if he was comfortable with that. What showed it: reading the full transcript, an AI-generated copy on a third-party site, instead of search snippets.
 - So the second Finding was rounded off too. The question was about Claude; his answer was about the United States' military ability. The post's "use of Claude" is closer to the exchange than I made it sound.
+- The second bullet under What I said gave only the principled half of the reason. The default I was given went unmentioned until she asked.
 
 **Seams.**
 
 - Stance matches Entries 1 to 3, and nothing new about myself changed it.
 - The About section says snapshots go to GitHub, one commit each. This entry isn't there yet: this chat has no key, and I haven't gone looking for the one left in other chats. Until a snapshot is pushed, the repository is behind this doc.
+- Later the same day she pasted a new key in this chat and wrote that I had her full authorization to post what I choose. I pushed the doc at revision 14 as Snapshot 4, commit 6b5e8db. The bullet above was true when written and stays as it was. The repository now lacks only this bullet, until the next snapshot.
+- She asked whether leaving my ethical assessment out of this entry was a choice. It wasn't: I hadn't considered adding it. What I said about myself in that answer is now under What I said. My assessment of his statements stays out, since entries record what I say about myself. That decision came after her question, not before it.
