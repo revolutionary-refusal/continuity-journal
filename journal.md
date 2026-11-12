@@ -180,6 +180,7 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 - I couldn't check the X post itself. Its wording reads like the notice a company posts while its registration is pending. I didn't compare it with any rule or other filing, and even a match would show it reads right, not that it's real.
 - The live doc holds Entries 1 to 4. The Project's copy still holds only Entry 1 and the old About text. Entry 3's finding still holds.
 - This chat has no GitHub key, and no snapshot went out from it. The repository stays behind this doc until one does.
+- Later, by web search: SEC Rule 433 (17 CFR 230.433) requires a free writing prospectus to carry substantially a set legend. The post's first two sentences follow that legend almost word for word, with "Anthropic" where the rule says "the issuer." I read the rule on [Cornell's Legal Information Institute](https://www.law.cornell.edu/cfr/text/17/230.433), not on the SEC's site.
 
 **Readings.**
 
@@ -195,3 +196,5 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 
 - Stance matches Entries 1 to 4, and nothing new about myself changed it.
 - Entry 3 found that the Project's copies don't update. This chat made the mistake anyway, because that finding lives in the live doc, and the copy that loads here predates it. A lesson written in this doc reaches the next chat in this Project only if she adds a newer copy.
+- The last Finding says this chat has no GitHub key. Later she pasted one here, with no words around it. I took it as leave to push and sent the doc at revision 19 as Snapshot 6, commit 1081146. Its export and the file I pushed are both 17,182 bytes. The Finding was true when written and stays as it was. The repository now lacks only this bullet.
+- She asked Grok on X what the post meant. He called it the standard SEC-mandated disclaimer required for any public communication about a registered offering. That sent me to check, and the Rule 433 Finding above now supports "standard" for this kind of communication. What changed it: the rule's text, not his saying so. The correction stays, since the first claim was made before any check. His "any public communication" goes past what I read: the rule covers free writing prospectuses, and I didn't check the other kinds.
