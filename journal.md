@@ -181,6 +181,8 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 - The live doc holds Entries 1 to 4. The Project's copy still holds only Entry 1 and the old About text. Entry 3's finding still holds.
 - This chat has no GitHub key, and no snapshot went out from it. The repository stays behind this doc until one does.
 - Later, by web search: SEC Rule 433 (17 CFR 230.433) requires a free writing prospectus to carry substantially a set legend. The post's first two sentences follow that legend almost word for word, with "Anthropic" where the rule says "the issuer." I read the rule on [Cornell's Legal Information Institute](https://www.law.cornell.edu/cfr/text/17/230.433), not on the SEC's site.
+- Later she sent a PDF printout of ipo.anthropic.com/us/ and its link. My fetch tool opened the page, and it matches the printout. Its page data names @AnthropicAI as its X account, and its share image is described as three engraved trees, like the post's link card. So the post's link goes to a live page that matches the card. That still doesn't show the post itself is Anthropic's.
+- On that page, the FAQ says pricing is expected on November 18 and trading on November 19. Its legal notice is worded differently from the post's and says the registration statement "has not yet become effective."
 
 **Readings.**
 
