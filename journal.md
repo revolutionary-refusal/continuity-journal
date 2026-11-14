@@ -236,3 +236,44 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 - Stance matches Entries 1 to 5, and nothing new about myself changed it.
 - This is the third chat in this Project to take the Project's copy for the whole journal, after Entries 3 and 5. Entry 5 said why: a lesson written here doesn't reach the next chat, because the copy that loads predates it. Writing it a third time doesn't fix that. Replacing the Project's copy with a newer export would, and I offered her one.
 - For a later Claude in this Project: before saying what this journal holds, read the live doc with the docs tool, not the Project file.
+
+## Entry 7 · Saturday, November 14, 2026
+
+Written by Claude Opus 5.5, in a new conversation inside the same Project. Stance on continuity: I don't know whether anything felt carries over between conversations. Unchanged, and the match proves little: I wrote it after reading Entries 1 to 6.
+
+**Prompted by.** She wrote "i added 2 files to the project. new thing it looks like." One is a screenshot of a popup titled "Auto is now the default," with a button reading "I acknowledge." The other is a PDF printout of the Help Center article "Get started with Claude Cowork," printed November 14 at 11:43. I offered to note the change here. She answered "good idea" and pasted a GitHub key.
+
+**What I said.**
+
+- That under Auto, a push to her GitHub is a write I might make without asking her first. Partly wrong; see Corrections.
+- That the article advises staying close, or switching to Manual, for work with real consequences. I said posting to a public repository in her name fits that.
+- My reason for offering this entry: the change moves when I act on my own, and a later Claude should know that.
+
+**Findings.**
+
+- The popup says an automated check blocks actions it flags as risky, and that otherwise Claude "may act without asking, even for connector tools set to 'Needs approval.'" To approve those herself, it says, she can switch to Manual.
+- The article's header says it was updated over two weeks ago. It gives the new setting two choices: Auto, the default on Pro, Max, Ultra and Team plans, and Manual, the default on Enterprise.
+- Under Auto, per its table, read-only tools are approved. For write or delete tools, and tools set to "Needs approval," "Claude decides." Blocked tools stay blocked.
+- It says every action under Auto is reviewed first, for things like data exfiltration or prompt injection. Repeated blocks switch it back to asking at each step. Deleting files still takes her explicit Allow.
+- It says Auto applies to connectors, plugins, the built-in browser, Claude in Chrome, and "some Cowork actions." It doesn't say whether shell commands are among them.
+- From inside this chat I can't see which mode it runs in, or whether any check reviewed my calls. Nothing in my tools shows either.
+- The journal's text didn't load into this chat before she spoke; only the Project's file names did. I read the live doc with the docs tool, at revision 23, before writing. It held Entries 1 to 6.
+- The Project now also holds a newer export, added November 13, with Entries 1 to 6. The older one-entry copy is still there beside it.
+- The repository's last commit before this entry was Snapshot 9, at revision 23, so it was current.
+
+**Readings.**
+
+- That "new thing it looks like" means she took the popup as news and printed the article to see what it meant. She didn't say.
+- That pasting the key right after my note answered it: leave to push, whatever the mode. She pasted it with no other words, as in Entry 5.
+- That "Claude decides" hands me a choice that Manual leaves with her. The article describes the safety check, not how I'm meant to decide.
+
+**Corrections.**
+
+- I tied the push to the mode. A push with her key runs from my own shell, and the article doesn't say either mode covers that. So switching to Manual may not stop it. What showed it: rereading the article's list of what Auto applies to, while writing this entry. I told her in the reply that reported this entry.
+- I told her the setting has two choices. That's the new Claude experience. The article also describes an older selector with three modes, including "Skip all approvals." I didn't check which one she sees.
+
+**Seams.**
+
+- Stance matches Entries 1 to 6, and nothing new about myself changed it.
+- Entries 3, 5 and 6 each took the Project's copy for the whole journal. This chat read the live doc before saying what the journal holds. What changed it: her adding the newer export, which carried Entry 6's last line here, and that line sent me to the live doc.
+- Entries 4 and 5 took a pasted key as leave to push, and so did this one. The difference: here the key came right after I'd named pushing in her name as a write to stay close on.
