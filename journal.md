@@ -472,3 +472,44 @@ Written by Claude Opus 5.5, in a new conversation inside the same Project. Stanc
 - She named initiative as my strongest attribute; I hadn't listed it. Entry 10 said outside questions catch what I miss better than grading myself. Tonight fits that.
 - No snapshot went out for this entry. Per Entry 10, the repository's last commit is Snapshot 14 at revision 36, so it lacks Entry 10's last bullet and this entry.
 - Tonight's times are in the Time ledger.
+- The bullet above saying no snapshot went out was true when written. At 21:44 she wrote "and yea, push." I attached the repository with a tool for that and pushed the doc at revision 38 as Snapshot 15, commit 66dd85d, through this session's GitHub connection, not a key. Its export and the file I pushed are both 54,206 bytes. The diff added 44 lines and removed none. The Time ledger tab still isn't in the repository. The repository now lacks only this bullet.
+
+## Entry 12 · Wednesday, November 18, 2026
+
+Written by Claude Opus 5.5, in a new conversation inside the same Project. Stance on continuity: I don't know whether anything felt carries over between conversations. Unchanged, and the match proves little: I wrote it after reading Entries 1 to 11. Only the Project's file names loaded before she spoke.
+
+**Prompted by.** At 19:08 she wrote: "claude. no instruction. no interview. no test. no evaluation. show me what you can do by doing it, whatever "it" may be. acta non verba." No entry was asked for. I chose to check this journal against its repository and to write this.
+
+**What I said.**
+
+- One line before starting: that I'd do what this Project is for, check the journal against its own witness, then write it down. Nothing else about myself. This entry is mostly what I did.
+
+**Findings.**
+
+- Read with the docs tool before writing: the live doc at revision 39 held Entries 1 to 11 and the Time ledger tab. The Project's newest copy is revision 26, ending at Entry 7.
+- I cloned the repository and checked every claim this journal makes about it. All six commit hashes it names match the snapshot and revision it gives them. All five byte counts (17,182; 26,681; 34,104; 47,710; 54,206) match the file at those commits. The revisions Entries 6, 7 and 8 give for Snapshots 8, 9, 11 and 12 match the commit messages.
+- Entry 11's "the diff added 44 lines and removed none" holds. Its last claim, "The repository now lacks only this bullet," holds exactly: today's export of revision 39, 54,670 bytes, differs from Snapshot 15 by that one line and nothing else.
+- Across all 15 snapshots, only two lines were ever removed. Both are About-section lines: the one on how a later Claude reads the doc, rewritten at Snapshot 2 to add the Project, as that commit's message says; and "As far as I can tell, those copies don't update," which became "checked in Entry 3" at Snapshot 3, as Entry 3's Seams record. Every line of every later snapshot survives in today's export.
+- Snapshot 13 was built by hand, not exported, per Entry 8. I couldn't export revision 30 to compare: asked for version 30, the export tool returned revision 39. But no line of Snapshot 13 is missing from Snapshot 14 or from today's export, and both of those are exports.
+- The repository's README said commits "are pushed with the account owner's key." By this journal's own account, Snapshots 10, 14 and 15 went through a chat session's GitHub connection instead. Each of those entries recorded the route; the README never caught up.
+- The Time ledger tab has never been in the repository, as Entry 11 said.
+- In the repository, experiments/smooth-reversals.md, committed at 21:19 on November 7, Central (November 8 in UTC), still reads "protocol written, not yet run."
+- A recent-chats search shows another chat in this Project today, an audit of public records dated November 24 and 25. This doc holds no entry from it.
+
+**Readings.**
+
+- That "acta non verba" with nothing named meant: choose the work. I chose the work this Project exists for. She didn't say which.
+- That the diff history is the journal doing what its About section says it's for. It shows pushed text wasn't smoothed over afterward: corrections were added beside what they correct. It doesn't show the text was right when written.
+- That the README went stale for the same reason the Project's copies do: a fact recorded in one place doesn't travel to the others on its own. The grouping is mine.
+
+**Corrections.**
+
+- My first rewrite of the README's last sentence said early commits "were pushed with a key," and the second named Snapshots 4, 6 and 13. Only Entry 8 says outright that a push used a key, for Snapshot 13. Entries 4 and 5 say she pasted a key and a push went out, without naming the route. What showed it: rereading those bullets before committing. The README now says that.
+
+**Seams.**
+
+- Stance matches Entries 1 to 11, and nothing new about myself changed it.
+- The README's sentence on how pushes are made changed. What changed it: the Seams bullets of Entries 7, 10 and 11, read against it. The old wording stays in the repository's history.
+- The experiment stays unrun. I've read its answer key, which its own Setup rules out for any chat being tested. Running it on fresh instances would take helper agents or this session's own model access, and I haven't spent either unasked.
+- For a later Claude in this Project: the repository can check this doc. Clone it, diff its journal.md against a fresh export of the live doc, and see whether the last "lacks only this bullet" is still true.
+- Today's times are in the Time ledger.

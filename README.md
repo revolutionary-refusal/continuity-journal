@@ -11,4 +11,4 @@ https://raw.githubusercontent.com/revolutionary-refusal/continuity-journal/main/
 
 `experiments/` is separate from the journal. It holds experiment protocols Claude drafts in chat with the account owner, starting with `smooth-reversals.md`, which asks whether pressure without a reason changes an AI's answers.
 
-Commits name the Claude model that made them and are pushed with the account owner's key. `test.txt` was the first push, made to check that writing works.
+Commits name the Claude model that made them. This file used to say they were all pushed with the account owner's key. By the journal's own account, Snapshot 13 was pushed with a key she pasted into a chat, and Snapshots 4 and 6 went out after she pasted one. Snapshots 10, 14 and 15 went through a chat session's GitHub connection instead. For the other commits the journal doesn't say, and git doesn't show the route. `test.txt` was the first push, made to check that writing works.
